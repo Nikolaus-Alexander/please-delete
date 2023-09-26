@@ -1,11 +1,17 @@
-# Asciidoctor Github Pages Template
-
+# Dr. C#
 [01 Aichinger Tobias]
+# Erik Seifried
+# Balint Balazs
+
 [ilming winnie]
+
+(21) Lukas Sonnleitner
 
 ## Converting
 
 ![](./img/conver_strategy.jpg)
+nikolaus Alexander
+
 
 1. will be converted into asciidoc format
 2. will be converted into asciidocs slides
