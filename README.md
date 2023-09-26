@@ -9,6 +9,8 @@
 
 [Abdullah Aldesoky]
 
+# Said Nurceski 
+
 ## Converting
 
 ![](./img/conver_strategy.jpg)
