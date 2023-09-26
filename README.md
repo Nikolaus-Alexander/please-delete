@@ -1,11 +1,14 @@
 # Asciidoctor Github Pages Template
 
+
+# Balint Balazs
 [ilming winnie]
 
 ## Converting
 
 ![](./img/conver_strategy.jpg)
 nikolaus Alexander
+
 
 1. will be converted into asciidoc format
 2. will be converted into asciidocs slides
