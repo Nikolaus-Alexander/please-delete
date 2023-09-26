@@ -11,6 +11,8 @@
 
 # Said Nurceski 
 
+Armin Salkovic
+
 ## Converting
 
 ![](./img/conver_strategy.jpg)
