@@ -10,6 +10,7 @@
 
 ![](./img/conver_strategy.jpg)
 nikolaus Alexander
+nik alx
 
 
 1. will be converted into asciidoc format
