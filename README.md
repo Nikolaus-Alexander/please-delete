@@ -7,6 +7,8 @@
 
 (21) Lukas Sonnleitner
 
+[Abdullah Aldesoky]
+
 ## Converting
 
 ![](./img/conver_strategy.jpg)
